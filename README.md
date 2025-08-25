@@ -25,7 +25,9 @@ On a dataset of 10,000,000 integers:
 **⚙️ How is it improved?**
 
 -The array is divided into halves recursively.
+
 -Instead of sorting halves sequentially, they are sorted in parallel threads.
+
 -After sorting, the halves are merged together.
 
 A threshold is used: if the part is too small, normal sorting is used to avoid thread overhead.
