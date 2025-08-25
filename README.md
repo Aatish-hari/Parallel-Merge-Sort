@@ -32,4 +32,4 @@ On a dataset of 10,000,000 integers:
 
 A threshold is used: if the part is too small, normal sorting is used to avoid thread overhead.
 
-# **✨ This project shows how parallel programming can greatly improve algorithm performance on modern multi-core CPUs.**
+## **✨ This project shows how parallel programming can greatly improve algorithm performance on modern multi-core CPUs.**
