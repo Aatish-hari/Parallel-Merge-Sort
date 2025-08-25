@@ -1,4 +1,4 @@
-#**⚡ Parallel Merge Sort vs Classic Merge Sort**
+# **⚡ Parallel Merge Sort vs Classic Merge Sort**
 
 This project compares the performance of normal Merge Sort and a Parallel Merge Sort implemented in C++.
 
